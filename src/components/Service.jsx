@@ -6,7 +6,7 @@ import pic4 from './../assets/pic4.jpg'
 const Service = () => {
   return (
     <div className='pb-10'>
-      <p className='text-sky-200 text-center mb-10 font-bold lg:text-2xl md:text-xl text-sm  mx-10 bg-gray-800 bg-opacity-70 p-4 rounded-xl'>Serenity Heaven Wellness Spa offers vegan-friendly alternatives, cruelty-free product lines, quality services, and an individualized approach to spa treatments.</p>
+      <p className='text-sky-200 text-center mb-10 font-bold lg:text-2xl md:text-xl text-sm  mx-20 md:mx-32 bg-gray-800 bg-opacity-70 p-4 rounded-xl'>Serenity Heaven Wellness Spa offers vegan-friendly alternatives, cruelty-free product lines, quality services, and an individualized approach to spa treatments.</p>
       <div className='flex flex-col gap-10 items-center xl:flex-row xl:justify-center '>
         <div className='relative group'> 
             <img src={pic1} alt="" loading='lazy' className='h-52 rounded-xl cursor-pointer'/>
