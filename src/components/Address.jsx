@@ -26,6 +26,7 @@ const Address = () => {
 1234 Creek Ave, Brooklyn, NY 11230 <br />
 callcenter@wecospa.com <br />
 +1 234 567 8901</p>
+<hr />
     </div>
 
     <div className='w-[80%] leading-10 flex gap-5 justify-center items-center text-sky-300 '>
